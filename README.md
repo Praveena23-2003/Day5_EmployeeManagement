@@ -86,7 +86,4 @@ Compile the Java code:
 javac EmployeeApp.java
 Run the program: java EmployeeApp ⚠️ MongoDB must be running locally for the app to function properly.
 
-🗃️ Sample MongoDB Document json Copy Edit { "name": "John Doe", "email": "john@example.com", "department": "HR", "joiningDate": "2024-06-10", "skills": ["Excel", "Recruitment"] }
 
-📂 Folder Structure Copy Edit . ├── EmployeeApp.java ├── .gitignore └── README.md
->>>>>>> 40536d3 (📝 Add project README)
